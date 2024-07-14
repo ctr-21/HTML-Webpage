@@ -1,8 +1,8 @@
 <h1>Exotic Animals HTML Webpage</h1>
 
 <h2>Description</h2>
-This is a webpage based on three different exotic animals, based on a research assignment that I did in my "Programming for Cybersecurity" class.
-With the use of various programming languages, I was able to practice and solidify my understanding of each language in a fun way. 
+This is a webpage regarding three different exotic animals, based on a research assignment that I did in my <i>Programming for Cybersecurity</i> class.
+With the use of various programming languages, I was able to practice and play around with each language in a fun way. This project has given me the opportunity to strengthen my programming skills.
 <br />
 
 
