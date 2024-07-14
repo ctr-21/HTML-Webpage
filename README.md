@@ -1,7 +1,7 @@
 <h1>Exotic Animals HTML Webpage</h1>
 
 <h2>Description</h2>
-This is a webpage regarding three different exotic animals, based on a research assignment that I did in my <i>Programming for Cybersecurity</i> class.
+This is a simple webpage regarding three different exotic animals, based on a research assignment that I did in my <i>Programming for Cybersecurity</i> class.
 With the use of various programming languages, I was able to practice and play around with each language in a fun way. This project has given me the opportunity to strengthen my programming skills.
 <br />
 
@@ -12,13 +12,8 @@ With the use of various programming languages, I was able to practice and play a
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-<h2>Website Used</h2>
+<h2>Finished Project</h2>
 <a href="https://html-project-website-robbins.glitch.me/"><img src="https://img.shields.io/badge/Glitch.com-brightgreen"/></a>
-
-
-
-
-
 
 <h2>Project Source Code:</h2>
 
@@ -37,11 +32,7 @@ CSS Source Code: <br/>
 <br />
 PHP Source Code:  <br/>
 <img src="https://i.imgur.com/h9e4NCr.png" height="80%" width="80%" alt="Source Code"/>
-<br />
-<br />
-<h2>The Final Product</h2>
 
-- <a href="https://html-project-website-robbins.glitch.me/">Exotic Animals!</a>
 
 
 <!--
