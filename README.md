@@ -13,7 +13,7 @@ With the use of various programming languages, I was able to practice and play a
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 <h2>Website Used</h2>
-<img src="https://img.shields.io/badge/Glitch.com-brightgreen"/>
+<a href="https://html-project-website-robbins.glitch.me/"><img src="https://img.shields.io/badge/Glitch.com-brightgreen"/></a>
 
 
 
