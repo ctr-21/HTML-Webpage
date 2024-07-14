@@ -1,21 +1,26 @@
 <h1>Exotic Animals HTML Webpage</h1>
 
 <h2>Description</h2>
-This is a webpage based on three different exotic animals, based on a research assignment that I did in my "Programming for Cybersecurity" class. 
+This is a webpage based on three different exotic animals, based on a research assignment that I did in my "Programming for Cybersecurity" class.
+With the use of various programming languages, I was able to practice and solidify my understanding of each language in a fun way. 
 <br />
 
 
 <h2>Languages Used</h2>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-- <b>HTML</b> 
-- <b>CSS</b>
-- <b>JS</b>
-- <b>PHP</b>
 <h2>Website Used</h2>
+<img src="https://img.shields.io/badge/Glitch.com-brightgreen"/>
 
-- <b>Glitch.com</b>
 
-<h2>Program walk-through:</h2>
+
+
+
+
+<h2>Project Source Code:</h2>
 
 <p align="center">
 HTML Source Code: <br/>
