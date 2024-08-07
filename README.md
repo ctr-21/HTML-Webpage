@@ -1,4 +1,4 @@
-<h1>Exotic Animals HTML Webpage</h1>
+<h1>HTML Webpage</h1>
 
 <h2>Description</h2>
 This is a simple webpage regarding three different exotic animals, based on a research assignment that I did in my <i>Programming for Cybersecurity</i> class.
