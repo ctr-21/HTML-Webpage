@@ -14,5 +14,3 @@ With the use of various programming languages, I was able to practice and play a
 
 <h2>Finished Project</h2>
 <a href="https://html-project-website-robbins.glitch.me/"><img src="https://img.shields.io/badge/Glitch.com-brightgreen"/></a>
-777BB4
-1572B6
