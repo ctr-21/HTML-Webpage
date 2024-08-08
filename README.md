@@ -1,22 +1,34 @@
-# Hello Website (blank)
+<h1>HTML Webpage</h1>
 
-This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
+<h2>Description</h2>
+This is a simple webpage regarding three different exotic animals, based on a research assignment that I did in my <i>Programming for Cybersecurity</i> class.
+With the use of various programming languages, I was able to practice and play around with each language in a fun way. This project has given me the opportunity to strengthen my programming skills.
+<br />
 
-## What's in this project?
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+<h2>Languages Used</h2>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-← `index.html`: This is the main HTML page for your site.
+<h2>Finished Project</h2>
+<a href="https://html-project-website-robbins.glitch.me/"><img src="https://img.shields.io/badge/Glitch.com-brightgreen"/></a>
 
-← `style.css`: CSS files add styling rules to your content.
+<h2>Project Source Code:</h2>
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
-
-## You built this with Glitch!
-
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
-
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+<p align="center">
+HTML Source Code: <br/>
+<img src="https://i.imgur.com/uAgTFLe.png" height="80%" width="80%" alt="Source Code"/>
+<br />
+<br />
+JS Source Code:  <br/>
+<img src="https://i.imgur.com/zNRlyrY.png" height="80%" width="80%" alt="Source Code"/>
+<br />
+<br />
+CSS Source Code: <br/>
+<img src="https://i.imgur.com/vPH8ja4.png" height="80%" width="80%" alt="Source Code"/>
+<br />
+<br />
+PHP Source Code:  <br/>
+<img src="https://i.imgur.com/h9e4NCr.png" height="80%" width="80%" alt="Source Code"/>
