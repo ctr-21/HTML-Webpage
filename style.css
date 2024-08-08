@@ -1,0 +1,125 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: LightGrey;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+.title {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 2px solid Black;
+  background-color: Green;
+  color: White;
+  text-shadow: 4px 4px 4px black;
+}
+.colored-border {
+  border: 2px solid red;
+  padding: 10px;
+  display: inline-block;
+}
+.Croc {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 2px solid Green;
+  background-color: Black;
+  color: White;
+  text-shadow: 2px 2px 5px Green;
+}
+.centered-image-Croc {
+  display: block;
+  margin: 0 auto;
+  border: 3px solid Black;
+}
+.Octo {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 2px solid Blue;
+  background-color: Black;
+  color: White;
+  text-shadow: 2px 2px 5px Blue;
+}
+.centered-image-Octo {
+  display: block;
+  margin: 0 auto;
+  border: 3px solid Black;
+}
+.Wolverine {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 2px solid Brown;
+  background-color: Black;
+  color: White;
+  text-shadow: 2px 2px 5px Brown;
+}
+.centered-image-Wolverine {
+  display: block;
+  margin: 0 auto;
+  border: 3px solid Black;
+}
+.centered-list-Container {
+  text-align: center;
+}
+
+.centered-list {
+  display: inline-block;
+  text-align: left;
+  padding-left: 0;
+}
+.footer {
+  background-color: White;
+  padding: 5px 35px;
+  border-radius: 15px;
+  border: 2px solid Black;
+  color: Black;
+}
+.container-contact {
+  text-align: center;
+}
+#navbar {
+  background-color: Black;
+  overflow: hidden;
+  border-radius: 15px;
+}
+#navbar a {
+  float: center;
+  display: block;
+  color: White;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+#navbar a:hover {
+  background-color: White;
+  color: Grey;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
