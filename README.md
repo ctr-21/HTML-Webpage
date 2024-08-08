@@ -14,21 +14,3 @@ With the use of various programming languages, I was able to practice and play a
 
 <h2>Finished Project</h2>
 <a href="https://html-project-website-robbins.glitch.me/"><img src="https://img.shields.io/badge/Glitch.com-brightgreen"/></a>
-
-<h2>Project Source Code:</h2>
-
-<p align="center">
-HTML Source Code: <br/>
-<img src="https://i.imgur.com/uAgTFLe.png" height="80%" width="80%" alt="Source Code"/>
-<br />
-<br />
-JS Source Code:  <br/>
-<img src="https://i.imgur.com/zNRlyrY.png" height="80%" width="80%" alt="Source Code"/>
-<br />
-<br />
-CSS Source Code: <br/>
-<img src="https://i.imgur.com/vPH8ja4.png" height="80%" width="80%" alt="Source Code"/>
-<br />
-<br />
-PHP Source Code:  <br/>
-<img src="https://i.imgur.com/h9e4NCr.png" height="80%" width="80%" alt="Source Code"/>
